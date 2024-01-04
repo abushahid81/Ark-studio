@@ -1,2 +1,2 @@
-# Landing-page
-this is the first html web code on vscode
+# landing-Page
+First Landing page
