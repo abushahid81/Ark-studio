@@ -125,6 +125,10 @@ a:hover {
   flex-grow: 5;
   margin-top: 100px;
 }
+.hovers:hover {
+  transform: scale(1.1);
+  transition: 2s;
+}
 .test-grid {
   text-align: center;
   margin-top: 100px;
