@@ -1,11 +1,11 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 body {
   background-color: white;
   font-family: sans-serif;
-  box-sizing: border-box;
 }
 .container {
   display: flex;
@@ -21,9 +21,9 @@ body {
   background-color: rgb(224, 237, 233, 0.6);
   opacity: 0.5;
   position: absolute;
-  bottom: -365px;
-  width: 98%;
-  padding: 10px 20px;
+  bottom: -350px;
+  width: 100%;
+  padding: 15px 20px;
 }
 .container3 {
   display: flex;
